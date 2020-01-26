@@ -2,5 +2,8 @@
   "name": "node-practice",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "alert-node": "^2.1.2"
+  }
 }
